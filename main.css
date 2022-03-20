@@ -1,0 +1,138 @@
+*{
+    margin:0 px;
+    padding:0px;
+
+}
+
+body{
+    background:rgb(250, 248, 248);
+    color:rgb(26, 76, 214);
+    min-height: 100vh; 
+}
+
+#contenedor{
+    width:960px;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: rgb(196, 197, 197);
+    border-radius:20px;
+    overflow:hidden;
+
+}
+
+header{
+height: 150px;
+background: rgb(253, 250, 250);
+
+}
+
+header h1{
+    font-size: 50px;
+    text-align: center;
+    line-height: 150px;
+}
+
+nav{
+    background: rgb(247, 246, 244);
+    height:60px;
+
+}
+
+nav h2{
+    font-size: 40px;
+    text-align: center;
+    line-height: 60px;
+}
+
+#contenido{
+    width: 700px;
+    height: 500px;
+    float:left;
+    background: rgb(248, 248, 250);
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#contenido h2{
+    font-size:40px;
+    text-align:center;
+    line-height:0px;
+
+}
+
+aside{
+    width:250px;
+    height:500px;
+    background:rgb(62,111,215);
+    margin-top:10px;
+    float:right;
+
+}
+
+aside h2{
+    font-size:40px;
+    text-align:center;
+    line-height:500px;
+}
+
+
+footer{
+    background: rgb(190, 188, 188);
+    clear:both;
+}
+
+footer h2{
+    font-size:40px;
+    text-align:center;
+    padding:20px;
+    font-style:italic;
+}
+
+li {
+    float: right;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+#ima{
+  float: right;  
+  
+  padding-left: 10px;
+  padding-top: 60px;
+  
+}
+
+h3{
+    font-size:40px;
+    text-align:center;
+    line-height:500px;
+
+}
+
+table{
+    caption-side: bottom
+    
+
+    
+}
+
+button{
+    background-color: darkblue;
+    color: #dddddd;
+
+}
+th, td {
+    width: 25%;
+    text-align: left;
+ }
+
+ #otro{
+float:left
+
+ }
